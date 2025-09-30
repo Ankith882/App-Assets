@@ -1,0 +1,16 @@
+{
+  "ads": [
+    {
+      "image_url": "https://blog.swiggy.com/wp-content/uploads/2024/05/IMG_4011-1.jpg",
+      "redirect_url": "https://www.swiggy.com/"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/fk-p-flap/3240/540/image/e6c51589cafdb5ce.jpeg?q=60",
+      "redirect_url": "https://www.flipkart.com/"
+    },
+    {
+      "image_url": "https://images.meesho.com/images/marketing/1759128726415.webp",
+      "redirect_url": "https://www.meesho.com"
+    }
+  ]
+}
