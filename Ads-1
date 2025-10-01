@@ -12,57 +12,58 @@
       "image_url": "https://images.meesho.com/images/marketing/1759128726415.webp",
       "redirect_url": "https://www.meesho.com"
     },
-  {
-    "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1759303791_JioUtsav_Desktop_English.jpg?im=Resize=(2368,400)",
-    "redirect_url": "https://www.jiomart.com/"
-  },
-  {
-    "image_url": "https://carousels-ads.swiggy.com/images/slider/3.jpg",
-    "redirect_url": "https://www.swiggy.com/"
-  },
-  {
-    "image_url": "https://storage.googleapis.com/website-production/uploads/2023/01/pluralsight-banner-ad-example.png",
-    "redirect_url": "https://www.pluralsight.com/"
-  },
-  {
-    "image_url": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/c0317835cf0d67f6c1e794dad7bba2f76534d9e522244e0f01fce285c592ea04.jpg",
-    "redirect_url": "https://moneyview.in/"
-  },
-  {
-    "image_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/64129371-2152-48cd-a09e-bfb8de8ed7d3.__CR0,0,970,600_PT0_SX970_V1___.jpg",
-    "redirect_url": "https://www.boat-lifestyle.com/"
-  },
-  {
-    "image_url": "https://media.licdn.com/dms/image/sync/v2/C4D27AQG3pgXmyXOLUw/articleshare-shrink_800/articleshare-shrink_800/0/1753695746373?e=2147483647&v=beta&t=_iV6FxUDHtKUP2ecXN5ky_4nvG0vucf43PPz4ScJfd4",
-    "redirect_url": "https://www.shiprocket.in/"
-  },
-  {
-    "image_url": "https://assets.getonecard.app/assets/cms/One_Credit_Card_Refund_and_reversal_Procedure.png",
-    "redirect_url": "https://www.getonecard.app/"
-  },
-  {
-    "image_url": "https://st-images.honasa.in/1920_X512_2de8ac5a19.jpg?format=auto&width=&qualilty=",
-    "redirect_url": "https://mamaearth.in/"
-  },
-  {
-    "image_url": "https://spn-sta.spinny.com/blog/20220228134213/SET_1_1200x625.jpg",
-    "redirect_url": "https://www.spinny.com/"
-  },
-  {
-    "image_url": "https://rukminim2.flixcart.com/fk-p-flap/3240/540/image/f16ce51e6dd8a20c.jpg?q=60",
-    "redirect_url": "https://www.flipkart.com/"
-  },
-  {
-    "image_url": "https://pimwp.s3-accelerate.amazonaws.com/2023/03/cadbury1.jpg",
-    "redirect_url": "https://www.cadbury.co.uk/"
-  },
-  {
-    "image_url": "https://cdn.grabon.in/gograbon/images/merchant/1616818417996.jpg",
-    "redirect_url": "https://www.dream11.com/"
-  },
-  {
-    "image_url": "https://www.fugenx.com/wp-content/uploads/2017/04/BigBasket-Grocery-Application-Banner.jpg",
-    "redirect_url": "https://www.bigbasket.com/"
-  }
+    {
+      "image_url": "https://www.jiomart.com/images/cms/aw_rbslider/slides/1759303791_JioUtsav_Desktop_English.jpg?im=Resize=(2368,400)",
+      "redirect_url": "https://www.jiomart.com/"
+    },
+    {
+      "image_url": "https://carousels-ads.swiggy.com/images/slider/3.jpg",
+      "redirect_url": "https://www.swiggy.com/"
+    },
+    {
+      "image_url": "https://storage.googleapis.com/website-production/uploads/2023/01/pluralsight-banner-ad-example.png",
+      "redirect_url": "https://www.pluralsight.com/"
+    },
+    {
+      "image_url": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/afaqs/media/post_attachments/c0317835cf0d67f6c1e794dad7bba2f76534d9e522244e0f01fce285c592ea04.jpg",
+      "redirect_url": "https://moneyview.in/"
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/64129371-2152-48cd-a09e-bfb8de8ed7d3.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "redirect_url": "https://www.boat-lifestyle.com/"
+    },
+    {
+      "image_url": "https://media.licdn.com/dms/image/sync/v2/C4D27AQG3pgXmyXOLUw/articleshare-shrink_800/articleshare-shrink_800/0/1753695746373?e=2147483647&v=beta&t=_iV6FxUDHtKUP2ecXN5ky_4nvG0vucf43PPz4ScJfd4",
+      "redirect_url": "https://www.shiprocket.in/"
+    },
+    {
+      "image_url": "https://assets.getonecard.app/assets/cms/One_Credit_Card_Refund_and_reversal_Procedure.png",
+      "redirect_url": "https://www.getonecard.app/"
+    },
+    {
+      "image_url": "https://st-images.honasa.in/1920_X512_2de8ac5a19.jpg?format=auto&width=&qualilty=",
+      "redirect_url": "https://mamaearth.in/"
+    },
+    {
+      "image_url": "https://spn-sta.spinny.com/blog/20220228134213/SET_1_1200x625.jpg",
+      "redirect_url": "https://www.spinny.com/"
+    },
+    {
+      "image_url": "https://rukminim2.flixcart.com/fk-p-flap/3240/540/image/f16ce51e6dd8a20c.jpg?q=60",
+      "redirect_url": "https://www.flipkart.com/"
+    },
+    {
+      "image_url": "https://pimwp.s3-accelerate.amazonaws.com/2023/03/cadbury1.jpg",
+      "redirect_url": "https://www.cadbury.co.uk/"
+    },
+    {
+      "image_url": "https://cdn.grabon.in/gograbon/images/merchant/1616818417996.jpg",
+      "redirect_url": "https://www.dream11.com/"
+    },
+    {
+      "image_url": "https://www.fugenx.com/wp-content/uploads/2017/04/BigBasket-Grocery-Application-Banner.jpg",
+      "redirect_url": "https://www.bigbasket.com/"
+    }
   ]
 }
+
